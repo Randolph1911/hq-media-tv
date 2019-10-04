@@ -1,0 +1,8 @@
+Version: 2.0 
+DATE: 21-August-2019
+..............................
+
+1. Added    :  Login & register page.
+2. Added    :  My account page.
+3. Fixed    :  CSS issue.
+
