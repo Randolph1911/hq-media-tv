@@ -96,6 +96,13 @@ h6 {
   font-size: 14px;
 }
 
+/* Custom CSS Rules for index-3 HQ Media TV site */
+.header-medea-inner-area .logo-medea{
+  width: 250px;
+}
+
+
+
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   h1 {
     font-size: 65px;
